@@ -106,10 +106,10 @@ Create a rc file named **.crcfrc** in the root of your project and insert a arra
 ]
 ```
 
-Create a config file named **.crcf.config.js** in the root of your project and insert a array of default config options
+Create a config file named **crcf.config.js** in the root of your project and insert a array of default config options
 
-```sh
-[
+```js
+module.exports = [
   "scss",
   "proptypes"
   "stories"
