@@ -1,6 +1,6 @@
 # Create React Component Folder
 
-a fork of: https://github.com/freewillpbc/create-react-component-folder#readme
+a fork of: https://github.com/snaerth/create-react-component-folder
 
 ## About
 
