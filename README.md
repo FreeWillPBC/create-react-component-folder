@@ -1,7 +1,6 @@
-# Create React Component folder
+# Create React Component Folder
 
-[![NPM version](https://img.shields.io/npm/v/create-react-component-folder.svg?style=flat)](https://npmjs.com/package/create-react-component-folder)
-[![NPM downloads](https://img.shields.io/npm/dm/create-react-component-folder.svg?style=flat)](https://npmjs.com/package/create-react-component-folder)
+a fork of: https://github.com/freewillpbc/create-react-component-folder#readme
 
 ## About
 
@@ -162,7 +161,7 @@ $ npx crcf --help
     --typescript      Creates Typescript component and files
     --nocss           No css file
     --notest          No test file
-    --cssmodules       Creates css/less/scss file with .module extensions. Example 
+    --cssmodules       Creates css/less/scss file with .module extensions. Example
     --reactnative     Creates React Native components
     --createindex     Creates index.js file for multple component imports
     -f, --functional  Creates React stateless functional component
