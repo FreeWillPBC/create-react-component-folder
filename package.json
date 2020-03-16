@@ -1,7 +1,7 @@
 {
   "name": "@freewillpbc/create-react-component-folder",
   "description": "Creates single react component folder structure",
-  "version": "0.2.4",
+  "version": "0.3.0",
   "author": "Snær Seljan Þóroddsson",
   "bin": {
     "create-react-component-folder": "./bin/create-react-component-folder.js",
@@ -49,6 +49,9 @@
   ],
   "license": "MIT",
   "main": "./lib/index",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "readme": "README.md",
   "repository": {
     "type": "git",
